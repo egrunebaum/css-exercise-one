@@ -83,4 +83,24 @@ h3 {
   background-color: green;
   height: 100px;
   margin: 10px;
-  width: 100%}
+  width: 100%;
+}
+
+.one {
+	background-color: #800000;
+	height: 100px;
+  margin: 10px;
+  width: 100%;
+}
+.two {
+	background-color: blue;
+	height: 100px;
+  margin: 10px;
+  width: 100%;
+}
+.three {
+	background-color: orange;
+	height: 100px;
+  margin: 10px;
+  width: 100%;
+}
